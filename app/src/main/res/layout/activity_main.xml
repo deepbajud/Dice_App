@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/img"
+    tools:context=".MainActivity">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/pointDice1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp"
+            android:fontFamily="monospace"
+            android:text="Dice 1  Point : "
+            android:textColor="@color/black"
+            android:textSize="@dimen/_22sdp" />
+
+        <TextView
+            android:id="@+id/pointDice2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp"
+            android:fontFamily="monospace"
+            android:text="Dice 1  Point : "
+            android:textColor="@color/black"
+            android:textSize="@dimen/_22sdp" />
+
+        <LinearLayout
+            android:layout_width="400dp"
+            android:layout_height="300dp"
+            android:gravity="center"
+            android:orientation="horizontal"
+            android:padding="10dp">
+
+            <ImageView
+                android:id="@+id/Dice1"
+                android:layout_width="@dimen/_110sdp"
+                android:layout_height="@dimen/_110sdp"
+                android:background="@drawable/dice4"
+                android:elevation="@dimen/_16sdp" />
+
+            <ImageView
+                android:id="@+id/Dice2"
+                android:layout_width="@dimen/_110sdp"
+                android:layout_height="@dimen/_110sdp"
+                android:layout_marginLeft="@dimen/_25sdp"
+                android:background="@drawable/dice4"
+                android:elevation="@dimen/_16sdp" />
+
+        </LinearLayout>
+
+        <androidx.cardview.widget.CardView
+            android:id="@+id/RollDice"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:backgroundTint="#0474CD"
+            android:padding="@dimen/_12sdp"
+            app:cardCornerRadius="10dp"
+            app:cardElevation="@dimen/_8sdp"
+            app:cardUseCompatPadding="true">
+
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:fontFamily="cursive"
+                android:padding="10dp"
+                android:text="Click me to Roll"
+                android:textColor="@color/white"
+                android:textSize="@dimen/_19sdp"
+                android:textStyle="bold" />
+
+        </androidx.cardview.widget.CardView>
+
+        <TextView
+            android:id="@+id/Total"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/_18sdp"
+            android:fontFamily="monospace"
+            android:text="Total Point of both Dice :  "
+            android:textColor="@color/black"
+            android:textSize="@dimen/_14sdp"
+            android:textStyle="bold" />
+
+    </LinearLayout>
+</LinearLayout>
