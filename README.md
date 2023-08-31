@@ -1,6 +1,7 @@
 # Dice_App
 [![Download APK](https://img.shields.io/badge/Download-APK-blue)](https://drive.google.com/file/d/1_QyDAPZFHEfJVl2hV-GvF3A5x7taAD_s/view?usp=sharing)
-## App-Overview
+## App-Preview
+This engaging Android app offers a virtual dice rolling experience. The user interface is designed with a visually appealing layout that includes two dice images, along with their respective point values, and a "Roll" button to initiate the dice roll. Upon clicking the button, the app generates random values for two dice, updates their images, and displays the individual point values as well as the combined total. Users can experience the thrill of rolling dice virtually and enjoy the excitement of observing the outcome. With its user-friendly interface and interactive features, this app provides a fun way to simulate a dice game.
 
  <img 
   width="30%"
