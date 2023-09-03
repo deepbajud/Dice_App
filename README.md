@@ -3,6 +3,16 @@
 
 This engaging Android app offers a virtual dice rolling experience. The user interface is designed with a visually appealing layout that includes two dice images, along with their respective point values, and a "Roll" button to initiate the dice roll. Upon clicking the button, the app generates random values for two dice, updates their images, and displays the individual point values as well as the combined total. Users can experience the thrill of rolling dice virtually and enjoy the excitement of observing the outcome. With its user-friendly interface and interactive features, this app provides a fun way to simulate a dice game.
 
+## <h1 align=center>Screenshots 📸</h1>
+
+
+||||
+|:----------------------------------------:|:-----------------------------------------:|:-----------------------------------------:|
+| <img src= "1.png" width="80%" height="70%"> | <img src= "2.png" width="80%" height="70%"> | <img src= "3.png" width="80%" height="70%"> |
+| <img src= "4.png" width="80%" height="70%"> | <img src= "5.png" width="80%" height="70%"> | <img src= "6.png" width="80%" height="70%"> |
+| <img src= "7.png" width="80%" height="70%"> | <img src= "8.png" width="80%" height="70%"> | <img src= "9.png" width="80%" height="70%"> |
+|  | ![bloggif_64f1c75753a9f](https://github.com/deepbajud/Joke_App/assets/118447327/33c282f8-0340-41a1-913a-086246167d7d) >  |
+
 <!--## App-Preview
  <img 
   width="30%"
