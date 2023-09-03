@@ -11,7 +11,7 @@ This engaging Android app offers a virtual dice rolling experience. The user int
 | <img src= "1.png" width="80%" height="70%"> | <img src= "2.png" width="80%" height="70%"> | <img src= "3.png" width="80%" height="70%"> |
 | <img src= "4.png" width="80%" height="70%"> | <img src= "5.png" width="80%" height="70%"> | <img src= "6.png" width="80%" height="70%"> |
 | <img src= "7.png" width="80%" height="70%"> | <img src= "8.png" width="80%" height="70%"> | <img src= "9.png" width="80%" height="70%"> |
-|  | ![bloggif_64f1c75753a9f](https://github.com/deepbajud/Joke_App/assets/118447327/33c282f8-0340-41a1-913a-086246167d7d) >  |
+|  | ![bloggif_64eff3f2bc9c3](https://github.com/deepbajud/Dice_App/assets/118447327/5e29b3ae-c8ae-4ada-bc67-1836685cfe05) >  |
 
 <!--## App-Preview
  <img 
@@ -34,4 +34,4 @@ This engaging Android app offers a virtual dice rolling experience. The user int
   width="30%"
   src="6.png"/>
 
-  ![bloggif_64eff3f2bc9c3](https://github.com/deepbajud/Dice_App/assets/118447327/5e29b3ae-c8ae-4ada-bc67-1836685cfe05)
+  
